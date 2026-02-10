@@ -2,7 +2,7 @@
 
 [![Build Status](https://semaphore-demos.semaphoreci.com/badges/semaphore-demo-go/branches/fork-and-run.svg)](https://semaphore-demos.semaphoreci.com/projects/semaphore-demo-go)
 
-This is an example program and CI pipeline showing how to run a Go project on [Semaphore](https://semaphoreci.com)
+This is an example program and CI pipeline showing how to run a Go project on [Semaphore](https://semaphoreci.com).
 
 ## CI on Semaphore
 
